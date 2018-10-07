@@ -25,8 +25,8 @@ int main(void)
 ```
 ```
 Question 1:#include <stdio.h>
-include 是何意義??
-stdio有何用途?
+include 是何意義??  標頭檔加入到你的程式碼
+stdio有何用途? 
 std英文全名為何?
 i是何意義??o是何意義??
 h = header =標頭檔有何用途? 
